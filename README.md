@@ -6,3 +6,5 @@ Learning Selenium+Python
 # Technologies:
     - Python 3.11.1
     - Selenium 4.10.0
+    - Windows 11
+    - PyCharm 2023.1.4
